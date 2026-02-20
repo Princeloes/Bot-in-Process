@@ -1,5 +1,7 @@
 # AI Ticket Support System - Internship Project
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Princeloes/Bot-in-Process/blob/main/ticket_grouping.ipynb)
+
 ## Goal
 Design an AI system to automatically group customer support tickets and generate appropriate responses using NLP and RAG.
 
